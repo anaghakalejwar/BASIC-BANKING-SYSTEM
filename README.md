@@ -1,7 +1,7 @@
 # BASIC-BANKING-SYSTEM
 Task-1
 
-THE STATE BANK Sparks Foundation Internship Project. Basic Banking System A Web Application used to tra between multiple users Project contains 10 dummy users.
+THE STATE BANK Sparks Foundation Internship Project. Basic Banking System A Web Application used to transfer between multiple users Project contains 10 dummy users.
 
 Task assigned was ass follows:
 
